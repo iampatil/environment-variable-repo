@@ -5,7 +5,7 @@ import java.util.HashMap;
 public class CharacterCount {
 
 	public static void main(String[] args) {
-		String str = "Avinash";
+		String str = "Mayuri";
 		HashMap<Character, Integer> map = new HashMap<Character, Integer>();
 		
 		char arr[] = str.toCharArray();
